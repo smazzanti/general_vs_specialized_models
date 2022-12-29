@@ -1,1 +1,1 @@
-# general_vs_specialized_models
+# What Is Better: One General Model or Many Specialized Models?
